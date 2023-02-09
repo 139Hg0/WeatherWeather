@@ -1,0 +1,17 @@
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\WeatherWeather.csproj.AssemblyReference.cache
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\WeatherWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\WeatherWeather.AssemblyInfoInputs.cache
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\WeatherWeather.AssemblyInfo.cs
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\WeatherWeather.csproj.CoreCompileInputs.cache
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\bin\Debug\net6.0\WeatherWeather.exe
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\bin\Debug\net6.0\WeatherWeather.deps.json
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\bin\Debug\net6.0\WeatherWeather.runtimeconfig.json
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\bin\Debug\net6.0\WeatherWeather.dll
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\bin\Debug\net6.0\WeatherWeather.pdb
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\WeatherWeather.csproj.CopyComplete
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\WeatherWeather.dll
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\refint\WeatherWeather.dll
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\WeatherWeather.pdb
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\WeatherWeather.genruntimeconfig.cache
+C:\Users\ilya1\source\repos\WeatherWeather\WeatherWeather\obj\Debug\net6.0\ref\WeatherWeather.dll
